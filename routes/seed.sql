@@ -1,0 +1,1 @@
+INSERT INTO users (username, password, first_name, last_name, phone, join_at) VALUES ('lennessyy', 'password', '')
